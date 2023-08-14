@@ -2,3 +2,4 @@ new file with some content
 hello from the new feature branch
 hello from git merge
 hello from git stash
+hello from the merge conflict
