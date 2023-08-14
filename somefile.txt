@@ -1,2 +1,3 @@
 new file with some content
 hello from the new feature branch
+hello from git merge
